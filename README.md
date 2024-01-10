@@ -12,7 +12,7 @@ ____
 평가지표: RMSE를 사용했습니다! 
 
 
-![image](https://github.com/hwarange/-Pycaret-/blob/main/image.png)
+![RMSE](https://github.com/hwarange/-Pycaret-/blob/main/image.png)
 
 
 개발환경 및 Pycaret 버전: 구글 코랩, Pycaret 3.2.0
